@@ -3,7 +3,7 @@ My Project Portfolio
 
 ##360
 
-<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/[zachbradley]/[2018 EAST 360 Camera Project]'></script>
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/zachbradley/2018 EAST 360 Camera Project'></script>
 
 Project Description
 
